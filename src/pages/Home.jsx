@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Banner from '../components/Banner'
-import Images from '../components/images'
+// import Images from '../components/images'
+import Images from '../components/Images'
 import Footer from '../components/Footer'
 import Contribution from '../components/contribution'
 
